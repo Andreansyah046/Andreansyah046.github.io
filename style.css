@@ -95,7 +95,7 @@ header ul li a:hover {
 
 .about {
     height: 60vh;
-    background-image: url('../web_profil/img/bg1.jpg');
+    background-image: url('img/bg1.jpg');
     background-size: cover;
     position: relative;
     display: flex;
